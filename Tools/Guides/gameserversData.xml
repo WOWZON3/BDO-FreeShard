@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gameservers>
+	<gameserver id="1" channelId ="1" channelPosition="1" name="Asgard HighRate" channelName="DE Channel 01" port="8889" />
+</gameservers>
